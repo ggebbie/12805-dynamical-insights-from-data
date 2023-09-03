@@ -8,12 +8,12 @@ Dict(
     ],
     :about => Dict(
         :authors => [
-            (name = "Instructor One", url = "https://www.the-one.eu"),
-            (name = "Second Instructor", url = "https://www.the-second.com")
+            (name = "G Jake Gebbie", url = "https://www.the-one.eu"),
+            (name = "J Tom Farrar", url = "https://www.the-second.com")
         ],
-        :title => "A Great Course",
+        :title => "Dynamical Insights From Data",
         :subtitle => "Even Greater Than You Thought",
-        :term => "Spring 2023",
+        :term => "Fall 2023",
         :institution => "University of Greatness",
         :institution_url => "http://www.uva.nl",
         :institution_logo => "julia-logo-color.svg",
